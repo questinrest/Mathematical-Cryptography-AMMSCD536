@@ -8,6 +8,6 @@ This repository contains implementations of some algorithms used in the Mathemat
 
 ## Directory Structure
 
-- `extended_euclidean_algorithm/`: Contains the implementation of the Extended Euclidean Algorithm.
+- `extended_euclidean_algorithm/`: Contains the implementation of the Extended Euclidean Algorithm to calculate the multiplicative inverse.
 - `playfair_cipher_encryption_decryption/`: Implements the Playfair cipher encryption and decryption.
 - `des_key_generation_algorithm/`: Contains key generation functions for the DES algorithm for all the 16 rounds.
